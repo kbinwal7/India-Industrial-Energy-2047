@@ -33,3 +33,7 @@ Subject to: Energy balance constraints, Source share limits, Policy targets, Rel
 - Fossil fuels remain structurally important for process heat and grid reliability in transitional decades.
 
 - The transition represents a systems optimization challenge, not just a technology substitution problem.
+
+# Data Sources
+
+All datasets used in this study are sourced from publicly available government databases, primarily the NITI Aayog Energy Dashboard, along with supporting national energy statistics. The data was cleaned, normalized, and structured for modelling and scenario analysis purposes.

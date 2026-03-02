@@ -1,12 +1,12 @@
 # India-Industrial-Energy-2047
 A long-term energy demand and supply modelling framework for India’s industrial sector, aligned with Vision 2047 and Net Zero ambitions.
-#India Industrial Energy Outlook 2047
+# India Industrial Energy Outlook 2047
 A long-term energy demand and supply modelling framework for India’s industrial sector, aligned with Vision 2047 and Net Zero ambitions.
 
-#Overview
+# Overview
 This project develops a hybrid forecasting and optimization framework to estimate India’s industrial energy demand and supply mix up to 2047. The study integrates macroeconomic growth projections, sectoral energy intensity trends, and constrained optimization to evaluate cost–emission trade-offs under multiple scenarios. The objective is to understand how India can balance industrial growth, energy security, affordability, and decarbonization simultaneously.
 
-#Methodology
+# Methodology
 The framework combines:
 
 • GDP–Energy Intensity Model
@@ -22,7 +22,7 @@ Best, baseline, and worst-case projections based on variations in growth and eff
 Determines the optimal 2047 energy supply mix by minimizing a weighted function of: Total cost, CO₂ emissions
 Subject to: Energy balance constraints, Source share limits, Policy targets, Reliability and energy security considerations
 
-#Key Insights
+# Key Insights
 
 - Industrial energy intensity remains nearly constant (~5.36 MJ/USD), reflecting offsetting efficiency gains and structural rigidities.
 
